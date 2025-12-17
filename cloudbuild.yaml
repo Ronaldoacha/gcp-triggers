@@ -10,4 +10,4 @@ steps:
         echo "Commit SHA: $COMMIT_SHA"
         echo "Build process completed."
 options:
-  logging: CLOUD_LOGGING_ONLY   
+  logging: NONE   
